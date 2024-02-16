@@ -23,10 +23,6 @@ TensorBoard, along with saving training or prediction images, allows you to save
 
 ## Results:
 - After 50 epochs, Generator loss is aproximately 0.87 and discriminator loss is 0.64.There are generated images and graph of values on tensorboard.
-<img src="https://drive.google.com/file/d/11VqoUo4y7FUX3PrEMVykpQvpHAh4GYkt/view?usp=drive_link" width="100" height="100">
-<img src="https://drive.google.com/file/d/1iuRa7wpeOjmC6-jE0V4v-Lo26d627pmH/view?usp=drive_link" width="100" height="100">
-<img src="https://drive.google.com/file/d/12S41N3Qmuvl_zD-yC38bbelzaVl77fz3/view?usp=drive_link" width="100" height="100">
-
 
 ## Usage: 
 - You can train the model by setting "TRAIN" to "True" in config file and your checkpoint will save in "config.CALLBACKS_PATH"
