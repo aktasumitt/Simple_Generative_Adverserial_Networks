@@ -1,0 +1,3 @@
+"""
+Mnist dataset will download here.
+"""
